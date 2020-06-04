@@ -1,6 +1,6 @@
 
 ![ToDoApp](https://user-images.githubusercontent.com/59583706/83706493-47ae7000-a620-11ea-9803-70a56c6ceeac.PNG)
-### The project implemented:
+### in project implemented:
 
 - **Adding tasks < BottomPanel >:** 
     - Adding tasks through the form (each element has an id).
