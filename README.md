@@ -1,6 +1,6 @@
 # ToDoList
----
-# The project implemented:
+
+### The project implemented:
 
 - Adding tasks <BottomPanel>:
     - Adding tasks through the form (each element has an id).
