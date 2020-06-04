@@ -16,7 +16,7 @@ export default class App extends Component {
         ]
     }
 
-    //Adding item to list. newLabel from <BottomPanel>
+    //Adding item to list. newLabel taking from <BottomPanel>
     makeNewItem = (newLabel) =>{
         //making new object
         const newItem = {
@@ -141,6 +141,9 @@ export default class App extends Component {
         )
     }
 }
+
+
+
 
 
 
