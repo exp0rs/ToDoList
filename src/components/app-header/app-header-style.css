@@ -1,0 +1,30 @@
+.App-Header{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 .2em 8px .2em;
+}
+.flex-element{
+    flex-basis: auto;
+    flex-grow: 0;
+}
+h1{
+    font-weight: bold;
+    font-size: 3em;
+}
+h3{
+    font-size: 1.8em;
+}
+.t{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #683584;
+}
+.d{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #683584;
+}

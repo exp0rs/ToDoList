@@ -1,0 +1,26 @@
+.item{
+    display: flex;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 3px 0 3px 0;
+    padding: 0 0 0 1em;
+    background: #c9e9ea;
+    flex-grow: 0;
+}
+.important{
+    font-weight: bold;
+    color: #d51a1a;
+}
+.done{
+    text-decoration-line: line-through;
+    color: rgba(18, 38, 18, 0.36);
+    font-weight: bold;
+}
+.b{
+    margin-left: auto;
+    font-weight: bold;
+}
+.a{
+    width: 2em;
+
+}

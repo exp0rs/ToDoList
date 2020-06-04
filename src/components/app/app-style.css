@@ -1,0 +1,13 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+    min-width: 330px;
+    max-width: 450px;
+    margin: 5em auto;
+    padding: 2em;
+    border-radius: 2em;
+
+    background: rgba(86, 139, 165, 0.67);
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}

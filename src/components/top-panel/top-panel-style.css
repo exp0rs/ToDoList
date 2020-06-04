@@ -1,0 +1,21 @@
+.Top-Panel{
+    display: flex;
+    justify-content: center;
+}
+.flex-element{
+    flex-grow: 1;
+}
+.input{
+    flex-grow: 2;
+    margin-right: 4px;
+    padding-left: 20px;
+    outline:none;
+}
+
+button:focus {
+    outline: none;
+    cursor: pointer;
+}
+.btn-group{
+    outline: none !important;
+}
