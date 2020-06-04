@@ -1,4 +1,5 @@
-![ToDoApp](https://user-images.githubusercontent.com/59583706/83706298-c951ce00-a61f-11ea-88b7-5e1bb8978736.PNG)
+
+![ToDoApp](https://user-images.githubusercontent.com/59583706/83706493-47ae7000-a620-11ea-9803-70a56c6ceeac.PNG)
 ### The project implemented:
 
 - **Adding tasks < BottomPanel >:** 
