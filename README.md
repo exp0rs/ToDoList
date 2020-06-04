@@ -1,5 +1,5 @@
-# ToDoList
 
+![ToDoApp](https://user-images.githubusercontent.com/59583706/83706493-47ae7000-a620-11ea-9803-70a56c6ceeac.PNG)
 ### The project implemented:
 
 - **Adding tasks < BottomPanel >:** 
@@ -12,6 +12,7 @@
 - **Search and filter tasks in the sheet < TopPanel >:**
     - Search for tasks through the form.
     - Filter tasks in the worksheet (all tasks completed, ongoing).
+    - score board of tasks (done, todo) < AppHeader >
 
 
 - **Change the status of the task < ListItems >:**
