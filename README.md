@@ -12,6 +12,7 @@
 - **Search and filter tasks in the sheet < TopPanel >:**
     - Search for tasks through the form.
     - Filter tasks in the worksheet (all tasks completed, ongoing).
+    - score board of tasks (done, todo) < AppHeader >
 
 
 - **Change the status of the task < ListItems >:**
